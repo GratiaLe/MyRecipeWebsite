@@ -1,4 +1,15 @@
-@import url()
-h1 {
+@import url('https://fonts.googleapis.com/css2?family=Kumar+One&display=swap');
+
+.hero-text {
+    font-family: "Kumar One", serif;
+    text-align: center;
+    top: 180px;
+    width: 100%;
+
+}
+
+.hero {
+    background-color: rgb(235, 203, 173);
+    height: 352px;
 
 }
