@@ -25,7 +25,9 @@ img {
 
 
 .three-column-bread {
+    display: flex;
     gap: 24px;
+    justify-content: space-between;
 }
 
 .column {
