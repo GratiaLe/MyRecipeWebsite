@@ -29,7 +29,13 @@ h2 {
     margin-bottom: 50px;
 }
 
+.card {
+    width: 20%;
+    height: auto;
+}
+
 .card-text {
     text-align: center;
     color: black
 }
+
