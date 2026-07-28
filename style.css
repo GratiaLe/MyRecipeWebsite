@@ -45,3 +45,8 @@ img {
     object-fit: cover;
     border-radius: 8px;
 }
+
+.card-text {
+    text-align: center;
+    color: black
+}
