@@ -35,6 +35,8 @@ img {
 .column {
     flex: 1;
     text-align: center;
+    width: 70px;
+    height: 40px;
 }
 
 .column-image{
