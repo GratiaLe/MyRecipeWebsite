@@ -29,9 +29,11 @@ h2 {
     margin-bottom: 50px;
 }
 
-.card {
-    width: 20%;
+.card-image {
+    width: 30%;
+    border-radius: 10px;
     height: auto;
+    object-fit: cover;
 }
 
 .card-text {
