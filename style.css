@@ -8,7 +8,7 @@
     width: 100%;
     font-size: 68px;
     display: flex;
-    
+
 }
 
 .hero {
@@ -16,7 +16,7 @@
     height: 250px;
 }
 
-h2 {
+.card-text {
     font-family: "Corben", serif;
 }
 
