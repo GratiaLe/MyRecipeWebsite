@@ -4,11 +4,11 @@
 
 .hero-text {
     font-family: "Kumar One", serif;
-    vertical-align: middle;
+    text-align: center;
     top: 180px;
     width: 100%;
     font-size: 68px;
-    display: flex;
+    padding-top: 40px;
 
 }
 
