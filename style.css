@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Kumar+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Corben:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
 
 .hero-text {
     font-family: "Kumar One", serif;
@@ -19,6 +20,12 @@
 .card-text {
     font-family: "Corben", serif;
 }
+
+.bread-banner {
+    background-color: rgb(158, 98, 64);
+    height: 180px;
+}
+
 
 .three-column {
     display: grid;
