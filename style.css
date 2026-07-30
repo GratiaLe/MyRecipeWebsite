@@ -7,13 +7,13 @@
     top: 180px;
     width: 100%;
     font-size: 68px;
-
+    display: flex;
+    
 }
 
 .hero {
     background-color: rgb(235, 203, 173);
     height: 250px;
-
 }
 
 h2 {
