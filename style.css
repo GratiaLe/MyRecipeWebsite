@@ -71,6 +71,13 @@
     align-items: center;
 }
 
+.pastries-card img {
+    width: 500px;
+    border-radius: 10px;
+    height: auto;
+    object-fit: cover;
+}
+
 .pastries-card-text {
     text-align: center;
     color: rgb(158, 98, 64);
