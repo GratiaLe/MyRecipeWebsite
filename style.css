@@ -21,7 +21,7 @@
 }
 
 .bread-banner-text {
-    background-color: rgb(222, 164, 126);
+    background-color: rgb(158, 98, 64);
     height: 100px;
     font-family: "Playball", serif;
     font-size: 40px;
@@ -53,17 +53,3 @@
     color: black
 }
 
-.pastries-banner-text {
-    background-color: rgb(158, 98, 64);
-    height: 100px;
-    font-family: "Playball", serif;
-    font-size: 40px;
-    padding-top: 20px;
-    padding-left: 20px;
-}
-
-.pastries-card-image img {
-    width: 480px;
-    height: 322px;
-    padding: 0px;
-}
