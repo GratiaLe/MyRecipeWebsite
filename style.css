@@ -4,7 +4,7 @@
 
 * {
     box-sizing: border-box;
-    margin: 0;
+    margin-left: 0;
     padding: 0;
 }
 
@@ -31,7 +31,6 @@
     padding-left: 20px;
     color: rgb(235, 203, 173);
 }
-
 
 .bread-three-column {
     display: grid;
@@ -85,6 +84,41 @@
 }
 
 .pastries-card-text {
+    text-align: center;
+    color: rgb(158, 98, 64);
+    font-family: "Corben", serif;
+}
+
+
+.cakes-banner-text {
+    background-color: rgb(158, 98, 64);
+    height: 100px;
+    font-family: "Playball", serif;
+    font-size: 40px;
+    padding-top: 20px;
+    padding-left: 20px;
+    color: rgb(235, 203, 173);
+}
+
+.cakes-three-column {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 100px;
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    align-items: center;
+}
+
+.cakes-card img {
+    width: 500px;
+    border-radius: 10px;
+    height: auto;
+    object-fit: cover;
+}
+
+.cakes-card-text {
     text-align: center;
     color: rgb(158, 98, 64);
     font-family: "Corben", serif;
