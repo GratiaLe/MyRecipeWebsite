@@ -28,6 +28,10 @@ body {
     margin-top: 0px;
 }
 
+.two-column-welcome {
+    display: inline;
+}
+
 .bread-banner-text {
     background-color: rgb(158, 98, 64);
     height: 100px;
