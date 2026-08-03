@@ -8,6 +8,10 @@
     padding: 0;
 }
 
+body {
+    background-color: rgb(247, 239, 220)
+}
+
 .hero-text {
     font-family: "Kumar One", serif;
     text-align: center;
