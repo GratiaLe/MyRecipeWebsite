@@ -24,6 +24,7 @@ body {
 .hero {
     background-color: rgb(235, 203, 173);
     height: 175px;
+    margin-top: 0px;
 }
 
 .bread-banner-text {
