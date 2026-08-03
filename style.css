@@ -32,6 +32,15 @@ body {
     display: inline;
 }
 
+.welcome-image img {
+    margin-left: 40px;
+}
+
+.welcome-text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
 .bread-banner-text {
     background-color: rgb(158, 98, 64);
     height: 100px;
