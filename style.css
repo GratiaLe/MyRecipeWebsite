@@ -9,6 +9,8 @@
 
 body {
     background-color: rgb(247, 239, 220)
+    margin: 0;
+    padding: 0;
 }
 
 .hero-text {
@@ -62,6 +64,7 @@ body {
     margin-top: 40px;
     margin-bottom: 50px;
     align-items: center;
+
 }
 
 .card img {
@@ -77,11 +80,6 @@ body {
     font-family: "Corben", serif;
 }
 
-
-
-
-
-
 .pastries-banner-text {
     background-color: rgb(222, 164, 126);
     height: 100px;
@@ -91,7 +89,6 @@ body {
     padding-left: 20px;
     color: rgb(235, 203, 173);
 }
-
 
 .pastries-full-width {
     display: grid;
@@ -120,13 +117,9 @@ body {
     text-align: center;
     color: rgb(158, 98, 64);
     font-family: "Corben", serif;
-    padding-top: 5px;
     padding-bottom: 10px;
     background-color: rgb(247, 239, 220);
 }
-
-
-
 
 .cakes-banner-text {
     background-color: rgb(158, 98, 64);
@@ -160,4 +153,31 @@ body {
     text-align: center;
     color: rgb(158, 98, 64);
     font-family: "Corben", serif;
+}
+
+/* Footer Section */
+.footer {
+    background-color: rgb(158, 98, 64);
+    color: rgb(235, 203, 173);
+    padding: 40px 20px;
+    text-align: center;
+    width: 100%;
+}
+
+.footer-title {
+    font-family: "Playball", serif;
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.footer-description {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.footer-copyright {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    opacity: 0.8;
 }
