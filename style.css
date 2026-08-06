@@ -120,7 +120,8 @@ body {
     text-align: center;
     color: rgb(158, 98, 64);
     font-family: "Corben", serif;
-    padding: 15px 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     background-color: rgb(247, 239, 220);
 }
 
