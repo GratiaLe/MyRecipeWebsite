@@ -39,6 +39,7 @@ body {
 .welcome-text {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 40px;
+    padding-left: 100px;
 }
 
 .bread-banner-text {
