@@ -64,7 +64,6 @@ body {
     margin-top: 40px;
     margin-bottom: 50px;
     align-items: center;
-
 }
 
 .card img {
@@ -192,4 +191,11 @@ body {
     object-fit: cover;    /* Prevents the image from stretching */
     border-radius: 10px;
     display: block;
+}
+
+.recipe-welcome-text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    padding-top: 35px;
+    color: rgb(158, 98, 64);
 }
