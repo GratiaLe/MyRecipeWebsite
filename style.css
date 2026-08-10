@@ -180,3 +180,16 @@ body {
     font-size: 14px;
     opacity: 0.8;
 }
+
+.back-link-container {
+
+}
+
+.recipe-welcome-image {
+    width: 100%;
+    max-width: 300px;     /* Adjust this number to make it smaller or larger */
+    height: 250px;        /* Controls the vertical height */
+    object-fit: cover;    /* Prevents the image from stretching */
+    border-radius: 10px;
+    display: block;
+}
