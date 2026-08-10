@@ -181,7 +181,9 @@ body {
 }
 
 .back-link-container {
-
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(158, 98, 64);
 }
 
 .recipe-welcome-image {
@@ -210,7 +212,5 @@ body {
 li {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 30px;
-    padding-top: 10px;
     color: rgb(158, 98, 64);
-    vertical-align: middle;
 }
