@@ -187,7 +187,7 @@ body {
 
 .recipe-welcome-image {
     width: 100%;
-    max-width: 300px;     /* Adjust this number to make it smaller or larger */
+    max-width: 500px;     /* Adjust this number to make it smaller or larger */
     height: 250px;        /* Controls the vertical height */
     object-fit: cover;    /* Prevents the image from stretching */
     border-radius: 10px;
