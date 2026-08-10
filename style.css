@@ -199,3 +199,17 @@ body {
     padding-top: 10px;
     color: rgb(158, 98, 64);
 }
+
+.section-title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    padding-top: 10px;
+    color: rgb(158, 98, 64);
+}
+
+li {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    padding-top: 10px;
+    color: rgb(158, 98, 64);
+}
