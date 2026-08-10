@@ -25,6 +25,7 @@ body {
 .hero {
     background-color: rgb(235, 203, 173);
     height: 175px;
+    width: 100%;
     margin-top: 0px;
 }
 
