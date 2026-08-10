@@ -218,3 +218,9 @@ li {
 a {
     color: rgb(158, 98, 64); /* Replace with your preferred color */
 }
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(158, 98, 64);
+}
