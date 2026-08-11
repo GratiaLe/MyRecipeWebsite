@@ -28,6 +28,11 @@ body {
     margin-top: 0px;
 }
 
+.welcome-image img {
+    width: 300px;
+    height: auto;
+}
+
 .welcome-two-column {
     display: grid;
     grid-template-columns: 1fr 3fr;
@@ -179,6 +184,7 @@ body {
     font-family: Arial, sans-serif;
     font-size: 14px;
     opacity: 0.8;
+    color:rgb(235, 203, 173);
 }
 
 /* Position the button on the page */
