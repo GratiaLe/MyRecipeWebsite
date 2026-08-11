@@ -25,7 +25,6 @@ body {
 .hero {
     background-color: rgb(235, 203, 173);
     height: 175px;
-    width: 100%;
     margin-top: 0px;
 }
 
@@ -181,10 +180,29 @@ body {
     opacity: 0.8;
 }
 
+/* Position the button on the page */
 .back-link-container {
+    width: 80%;
+    margin: 20px auto;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 30px;
     color: rgb(158, 98, 64);
+}
+
+/* Style the link as a button box */
+.back-button {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: rgb(158, 98, 64);
+    color: rgb(235, 203, 173);
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+/* Change background color when hovered */
+.back-button:hover {
+    background-color: rgb(128, 75, 45);
 }
 
 .recipe-welcome-image {
