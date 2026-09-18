@@ -4,7 +4,10 @@
 
 * {
     box-sizing: border-box;
-    margin-left: 0;
+}
+
+head {
+    padding-top: 0px;
 }
 
 body {
@@ -60,15 +63,22 @@ body {
     color: rgb(235, 203, 173);
 }
 
+.cakes-three-column,
 .bread-three-column {
+    /* display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Force 3 columns side-by-side */
+    /* gap: 20px;                             /* Reduce gap so they fit easier */
+    /* width: 80%;
+    /* margin: 40px auto;
+    margin-top: 40px;
+    margin-bottom: 50px; */
+
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 100px;
-    width: 80%;
-    margin: auto;
-    margin-top: 40px;
-    margin-bottom: 50px;
-    align-items: center;
+    gap: 0;
+    width: 100%;
+    margin: 40px 20px 50px 20px;
+
 }
 
 .card img {
@@ -132,17 +142,6 @@ body {
     padding-top: 20px;
     padding-left: 20px;
     color: rgb(235, 203, 173);
-}
-
-.cakes-three-column {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 100px;
-    width: 80%;
-    margin: auto;
-    margin-top: 40px;
-    margin-bottom: 50px;
-    align-items: center;
 }
 
 .cakes-card img {
@@ -249,4 +248,9 @@ p {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 30px;
     color: rgb(158, 98, 64);
+}
+
+.recipe-content {
+    padding-left: 80px;
+    padding-bottom: 40px;
 }
