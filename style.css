@@ -83,12 +83,20 @@ body {
 }
 
 .card img {
-    width: 500px;
+    /*width: 500px;
     border-radius: 10px;
     height: auto;
     object-fit: cover;
     display: flex; 
-    justify-content: center;
+    justify-content: center; */
+
+
+    width: 300px;       /* Set a fixed width (change size as needed) */
+    height: 300px;      /* Set the exact same height as the width */
+    object-fit: cover;  /* Prevents stretching/squishing by cropping the edges */
+    border-radius: 10px;
+    display: block;     /* Treats image as a block element */
+    margin: 0 auto;     /* Centers the image horizontally inside .card */
 }
 
 .card-text {
