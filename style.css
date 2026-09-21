@@ -77,7 +77,8 @@ body {
     grid-template-columns: repeat(3, 1fr);
     gap: 0;
     width: 100%;
-    margin: 40px 20px 50px 20px;
+    margin: 40px auto 60px auto;
+    justify-items: center;
 
 }
 
@@ -86,6 +87,7 @@ body {
     border-radius: 10px;
     height: auto;
     object-fit: cover;
+    display: flex; justify-content: center;
 }
 
 .card-text {
@@ -149,6 +151,7 @@ body {
     border-radius: 1000px;
     height: auto;
     object-fit: cover;
+    display: flex; justify-content: center;
 }
 
 .cakes-card-text {
