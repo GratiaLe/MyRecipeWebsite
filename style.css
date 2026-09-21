@@ -91,7 +91,7 @@ body {
     justify-content: center; */
 
 
-    width: 300px;       /* Set a fixed width (change size as needed) */
+    width: 3500px;       /* Set a fixed width (change size as needed) */
     height: 300px;      /* Set the exact same height as the width */
     object-fit: cover;  /* Prevents stretching/squishing by cropping the edges */
     border-radius: 10px;
