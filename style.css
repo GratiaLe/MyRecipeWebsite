@@ -87,7 +87,8 @@ body {
     border-radius: 10px;
     height: auto;
     object-fit: cover;
-    display: flex; justify-content: center;
+    display: flex; 
+    justify-content: center;
 }
 
 .card-text {
@@ -151,7 +152,8 @@ body {
     border-radius: 1000px;
     height: auto;
     object-fit: cover;
-    display: flex; justify-content: center;
+    display: flex; 
+    justify-content: center;
 }
 
 .cakes-card-text {
@@ -254,6 +256,6 @@ p {
 }
 
 .recipe-content {
-    padding-left: 80px;
+    padding-left: 140px;
     padding-bottom: 40px;
 }
