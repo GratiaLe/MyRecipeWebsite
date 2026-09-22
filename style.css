@@ -34,6 +34,8 @@ body {
 .welcome-image img {
     width: 480px;
     height: auto;
+    border-style: solid;
+    border-color: rgb(158, 98, 64);
 }
 
 .welcome-two-column {
