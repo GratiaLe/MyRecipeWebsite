@@ -1,4 +1,4 @@
-After Sprint 1.
+Sprint 1.
 
 1. Aesthetics – How does it look?
 Contrast – Text is clear and easy to read.
@@ -27,7 +27,6 @@ Accessibility – Clear headings, alt text for images, good contrast.
 Find Info – Information is easy to find.
 User Friendly – Feels welcoming and clear.
 Score (0–4): 4
-
 Feedback:
 “There are clear appropriately-sized headings depending on the importance of the heading and the code in your html has alt text.”
 
@@ -43,7 +42,7 @@ Feedback:
 
 
 
-After Sprint 2.
+Sprint 2.
 1. Aesthetics – How does it look?
 Contrast – Text is clear and easy to read.
 Alignment – Everything is lined up neatly.
@@ -51,7 +50,49 @@ Proximity – Related items are close: unrelated items have space.
 Consistency – Same fonts, colours, and styles across pages.
 Balance – Not too crowded or too empty.
 White Space – Enough empty space around text and images.
-Score (0–6): _______
+Score (0–6): 5
+Feedback:
+"Similar to the Sprint 1 feedback, I think the colour palette, themeing, layout, spacing, and images of the website are cohesive. they are consistent while having variety of layout within each section on the main page. Some feedback is that the spacing of the ingredients and instructions on the linked recipe pages are pushed to the left side, so there’s empty-sh space in the middle or right. The circle images in the cake section are a bit flat at the top and bottom, so they don’t look like perfect circles.The images on the main page bread section are different sizes, so the importance of the recipes looks like they vary."
+
+2. Functionality – Does it work?
+Links – All links work and go to the right place.
+Navigation – Menus and buttons take you where expected.
+Scrolling – You can scroll without problems.
+Page Load – No errors: all images and text appear.
+Responsive – Works well on a desktop screen.
+Score (0–5): 4
+Feedback:
+"The links all work like intended and the buttons are clearly labeled. Scrolling and loading the page is smooth, no erros with text or images, and it works well on a desktop screen."
+
+3. Usability – Is it easy to use?
+Readability – Text is big enough and easy to read.
+Accessibility – Clear headings, alt text for images, good contrast.
+Find Info – Information is easy to find.
+User Friendly – Feels welcoming and clear.
+Score (0–4): 4
+Feedback:
+"The subheadings (eg. bread, cake, pastries) look similar in size to the titles of the recipes (eg. sourdough bread, raspberry danish, vanilla cake). So the importance of the headings isn’t differentiated much. Otherwise, the text is easy to read and heaadings, alt text for images, and the contrast is good for the user. The colours work well together to make the website feel welcoming."
+
+4. Bonus Criteria (Optional)
+Purpose – Easy to see what the site is about.
+Engaging – Makes you want to explore more.
+Spelling – No big spelling or grammar mistakes.
+Score (0–3): 3
+Feedback:
+"The purpose fo the site is clear (baking/recipes), the layout is convenient and easy to read everything, so it makes the user want to explore more. No spelling or grammar mistakes."
+
+
+
+
+Sprint 3.
+1. Aesthetics – How does it look?
+Contrast – Text is clear and easy to read.
+Alignment – Everything is lined up neatly.
+Proximity – Related items are close: unrelated items have space.
+Consistency – Same fonts, colours, and styles across pages.
+Balance – Not too crowded or too empty.
+White Space – Enough empty space around text and images.
+Score (0–6): 6
 Feedback:
 ___________________________________________________________
 
@@ -61,7 +102,7 @@ Navigation – Menus and buttons take you where expected.
 Scrolling – You can scroll without problems.
 Page Load – No errors: all images and text appear.
 Responsive – Works well on a desktop screen.
-Score (0–5): _______
+Score (0–5): 4
 Feedback:
 ___________________________________________________________
 
@@ -70,7 +111,7 @@ Readability – Text is big enough and easy to read.
 Accessibility – Clear headings, alt text for images, good contrast.
 Find Info – Information is easy to find.
 User Friendly – Feels welcoming and clear.
-Score (0–4): _______
+Score (0–4): 4
 
 Feedback:
 ___________________________________________________________
@@ -79,6 +120,6 @@ ___________________________________________________________
 Purpose – Easy to see what the site is about.
 Engaging – Makes you want to explore more.
 Spelling – No big spelling or grammar mistakes.
-Score (0–3): _______
+Score (0–3): 3
 Feedback:
 ___________________________________________________________
