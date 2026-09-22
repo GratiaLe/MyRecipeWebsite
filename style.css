@@ -73,10 +73,16 @@ body {
     margin-top: 40px;
     margin-bottom: 50px; */
 
-    display: grid;
+    /*display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 0;
     width: 100%;
+    margin: 40px auto 60px auto;
+    justify-items: center;*/
+
+    grid-template-columns: repeat(3, 1fr);
+    width: 280px;
+    height: 300px;
     margin: 40px auto 60px auto;
     justify-items: center;
 
